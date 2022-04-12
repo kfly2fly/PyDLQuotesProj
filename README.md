@@ -1,3 +1,3 @@
 # PyDLQuotesProj
 
-Folder of our stuff on Google Drive: https://drive.google.com/drive/folders/1Gzf4bVhsZTrpE7zmhJ2YFdJXh8A8KTA8 
+Presentation: https://docs.google.com/presentation/d/1437VA4elB5--_IDGWHrJJpO0wxdTeqO4nKTAJRgMJ3Y/edit?usp=sharing
