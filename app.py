@@ -124,26 +124,31 @@ def adder_page():
             result = result.replace("␣", "")
             return '''
                 <html>
-                    <body>
-                        <p>The result is {result}</p>
-                        <p><a href="/">Click here to calculate again</a>
+                    <body style="background-color:skyblue;">
+                    <center>
+                        <p><font size="5">The result is {result}</font></p>
+                        <p><font size="5"><a href="/">Click here to generate again</font></a>
+                    </center>
                     </body>
                 </html>
             '''.format(result=result)
 
     return '''
         <html>
-            <body>
+            <body style="background-color:skyblue;">
+            <center>
                 {errors}
-                <p>Enter your starting string:</p>
+                <h1><font size="24">Quote Generator</font></h1>
+                <p><font size="5">Enter your starting string:</font></p>
                 <form method="post" action=".">
                     <p><input name="seed" /></p>
-                <p>Enter your temperature:</p>
+                <p><font size="5">Enter your temperature:</font></p>
                     <p><input name="temperature" /></p>
-                <p>Enter your quote length:</p>
+                <p><font size="5">Enter your quote length:</font></p>
                     <p><input name="words" /></p>
                     <p><input type="submit" value="Generate quote" /></p>
                 </form>
+            </center>
             </body>
         </html>
     '''.format(errors=errors)
