@@ -135,7 +135,8 @@ def adder_page():
                 <html>
                     <body style="background-color:skyblue;">
                     <center>
-                        <p><font size="5">The result is {result}</font></p>
+                        <p><font size="5">The result is:</font></p>
+                        <p><font size="5">{result}</font></p>
                         <p><font size="5"><a href="/">Click here to generate again</font></a>
                     </center>
                     </body>
