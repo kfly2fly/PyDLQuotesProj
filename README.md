@@ -45,3 +45,7 @@ How to run the code after git clone:
     
     4.) flask run (if this doesn't work use the command below)
         python -m flask run
+        
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
