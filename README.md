@@ -1,3 +1,13 @@
+## Input
+<div align="center">
+<img src="./public/input.png">
+</div>
+
+## Output
+<div align="center">
+<img src="./public/output.png">
+</div>
+
 ### May 2022
 
 ## Development Team
