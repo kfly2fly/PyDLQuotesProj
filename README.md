@@ -33,12 +33,10 @@ The project utilizes the following datasets in order to train the LSTM model.
 - Approximately 39,000 quotes (https://github.com/alvations/Quotables)
 
 
-## Presentation
+## Presentations
 
-
-Presentation: https://docs.google.com/presentation/d/1437VA4elB5--_IDGWHrJJpO0wxdTeqO4nKTAJRgMJ3Y/edit?usp=sharing
-
-Video Presentation: https://www.youtube.com/watch?v=GjASZmY6T-Y&t=2s
+- [Powerpoint](https://docs.google.com/presentation/d/1437VA4elB5--_IDGWHrJJpO0wxdTeqO4nKTAJRgMJ3Y/edit?usp=sharing)
+- [Video](https://www.youtube.com/watch?v=GjASZmY6T-Y&t=2s)
 
 ## Installation
 
